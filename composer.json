@@ -1,0 +1,15 @@
+{
+  "name": "loubal70/youtube-for-wp",
+  "autoload": {
+    "psr-4": {
+      "YoutubeForWP\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Louis Boulanger",
+      "email": "louis.boulanger.work@gmail.com"
+    }
+  ],
+  "require": {}
+}

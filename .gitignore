@@ -1,0 +1,10 @@
+# Environment variables file
+.DS_Store
+.idea
+
+# NPM
+node_modules
+yarn.lock
+
+# Output of `wp-scripts plugin-zip`
+*.zip

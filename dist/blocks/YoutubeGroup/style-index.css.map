@@ -1,0 +1,1 @@
+{"version":3,"file":"YoutubeGroup/style-index.css","mappings":";;;AAAA;EACE;EACA;EACA;AACF,C","sources":["webpack://youtube-for-wp/./resources/blocks/YoutubeGroup/style.scss"],"sourcesContent":[".wp-block-create-block-youtube-for-wp {\n  background-color: #21759b;\n  color: #fff;\n  padding: 2px;\n}"],"names":[],"sourceRoot":""}

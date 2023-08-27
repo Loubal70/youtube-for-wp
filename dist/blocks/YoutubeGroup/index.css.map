@@ -1,0 +1,1 @@
+{"version":3,"file":"YoutubeGroup/index.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://youtube-for-wp/./resources/blocks/YoutubeGroup/editor.scss"],"sourcesContent":[".wp-block-create-block-youtube-for-wp {\n  border: 1px dotted #f00;\n}"],"names":[],"sourceRoot":""}
