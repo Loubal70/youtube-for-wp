@@ -21,6 +21,14 @@ https://console.cloud.google.com/apis/library/youtube.googleapis.com
 | `api_key` | `string` | **Required**. Your API key |
 
 #### Get channel ID
+
+#### For your youtube channel
+If you have direct access to the Google account that owns the YouTube channel, log in to that account. 
+In the top right corner, click on "Settings." In the left-hand side menu, click on "Advanced settings," 
+and you will find your Channel ID.
+
+#### For a client
+
 To target your YouTube channel, we also require your YouTube channel ID. <br />
 You have two methods to find it: go to your YouTube channel, display the page source code 
 <i>(right-click and then View Page Source)</i>, search for "<b>channel_id</b>" using "Ctrl F". 
