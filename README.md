@@ -8,7 +8,7 @@ The current version of YoutubeForWP is `v0.1.0`. Please refer to the [Changelog]
 
 ## Youtube API
 In order for the Gutenberg block to function, it is essential to provide your Google API key and activate 
-the "Youtube Data API v3" library on your project.
+the "Youtube Data API v3" library on your Google console project.
 
 #### Get the Youtube Data API V3
 
