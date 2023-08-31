@@ -1,14 +1,14 @@
-# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.0-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
+# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.1-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
 
 Youtube for WP is a plugin that enables you to add a new Gutenberg block for listing your latest YouTube videos.
 
 ## Versions
 
-The current version of YoutubeForWP is `v0.1.0`. Please refer to the [Changelog](#changelog) section for details about previous versions.
+The current version of YoutubeForWP is `v0.1.1`. Please refer to the [Changelog](#changelog) section for details about previous versions.
 
 ## Youtube API
 In order for the Gutenberg block to function, it is essential to provide your Google API key and activate 
-the "Youtube Data API v3" library on your Google console project.
+the "Youtube Data API v3" library on your project.
 
 #### Get the Youtube Data API V3
 
@@ -48,6 +48,26 @@ Once you've filled in the inputs, you'll be able to add the Gutenberg block to y
 ## Changelog
 
 <details>
+<summary><strong>v0.2.0</strong> (Upcoming features)</summary>
+<p>
+
+- Adding WordPress notices for option field validation
+
+</p>
+</details>
+
+<details>
+<summary><strong>v0.1.1</strong></summary>
+<p>
+
+- Adding test for API 
+- Adding an error log of type 1 (email notification)
+- Adding video data to the youtube_for_wp_rendered_videos filter.
+
+</p>
+</details>
+
+<details>
 <summary><strong>v0.1.0</strong></summary>
 <p>
 
@@ -59,15 +79,6 @@ Once you've filled in the inputs, you'll be able to add the Gutenberg block to y
     - Number of videos to retrieve in the Gutenberg block
 - Adding a Gutenberg block to display the latest videos from a YouTube channel
 - Adding a hook to override the view of the latest videos
-
-</p>
-</details>
-
-<details>
-<summary><strong>v0.2.0</strong> (Upcoming features)</summary>
-<p>
-
-- Adding WordPress notices for option field validation
 
 </p>
 </details>
