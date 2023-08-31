@@ -1,10 +1,10 @@
-# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.1-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
+# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.3-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
 
 Youtube for WP is a plugin that enables you to add a new Gutenberg block for listing your latest YouTube videos.
 
 ## Versions
 
-The current version of YoutubeForWP is `v0.1.1`. Please refer to the [Changelog](#changelog) section for details about previous versions.
+The current version of YoutubeForWP is `v0.1.3`. Please refer to the [Changelog](#changelog) section for details about previous versions.
 
 ## Youtube API
 In order for the Gutenberg block to function, it is essential to provide your Google API key and activate 
@@ -52,6 +52,15 @@ Once you've filled in the inputs, you'll be able to add the Gutenberg block to y
 <p>
 
 - Adding WordPress notices for option field validation
+
+</p>
+</details>
+
+<details>
+<summary><strong>v0.1.3</strong></summary>
+<p>
+
+- Refactoring YoutubeRender, function to class
 
 </p>
 </details>
