@@ -1,4 +1,4 @@
-# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.3-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
+# Youtube For WP 🐝 [![plugin version](https://img.shields.io/badge/version-v0.1.4-color.svg)](https://github.com/Loubal70/youtube-for-wp/releases/latest)
 
 Youtube for WP is a plugin that enables you to add a new Gutenberg block for listing your latest YouTube videos.
 
