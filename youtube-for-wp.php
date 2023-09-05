@@ -3,14 +3,13 @@
 use YoutubeForWP\Assets;
 use YoutubeForWP\Blocks;
 use YoutubeForWP\Options;
-use YoutubeForWP\YouTubeRender;
 
 /**
  * Plugin Name:       Youtube For WP
  * Description:       Add last Youtube video to your website
  * Requires at least: 5.7
  * Requires PHP:      7.4
- * Version:           0.1.3
+ * Version:           0.1.4
  * Author:            Loubal70
  * Author URI:        https://louis-boulanger.fr
  * License:           GPL-2.0-or-later
