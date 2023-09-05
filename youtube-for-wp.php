@@ -3,6 +3,7 @@
 use YoutubeForWP\Assets;
 use YoutubeForWP\Blocks;
 use YoutubeForWP\Options;
+use YoutubeForWP\YouTubeRender;
 
 /**
  * Plugin Name:       Youtube For WP

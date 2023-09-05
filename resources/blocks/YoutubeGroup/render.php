@@ -1,7 +1,5 @@
 <?php
 
-require_once  YOUTUBE_FOR_WP_DIR . './classes/YoutubeRender.php';
-
 $youtubeForWpOptions = get_option("youtube_for_wp");
 
 if ($youtubeForWpOptions && !empty($youtubeForWpOptions['apiKey']) && !empty($youtubeForWpOptions['channelID'])) {

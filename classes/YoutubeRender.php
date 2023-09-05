@@ -5,7 +5,7 @@ namespace YoutubeForWP;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 
-class YouTubeRender{
+class YoutubeRender {
     private $apiKey;
     private $channelId;
     private $maxResults;
