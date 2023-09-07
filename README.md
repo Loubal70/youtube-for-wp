@@ -4,7 +4,7 @@ Youtube for WP is a plugin that enables you to add a new Gutenberg block for lis
 
 ## Versions
 
-The current version of YoutubeForWP is `v0.1.3`. Please refer to the [Changelog](#changelog) section for details about previous versions.
+The current version of YoutubeForWP is `v0.1.4`. Please refer to the [Changelog](#changelog) section for details about previous versions.
 
 ## Youtube API
 In order for the Gutenberg block to function, it is essential to provide your Google API key and activate 
